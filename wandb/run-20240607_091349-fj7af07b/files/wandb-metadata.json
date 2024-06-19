@@ -1,0 +1,44 @@
+{
+    "os": "Windows-10-10.0.22631-SP0",
+    "python": "3.9.19",
+    "heartbeatAt": "2024-06-07T07:13:50.411130",
+    "startedAt": "2024-06-07T07:13:49.079127",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "<python with no main file>",
+    "codePathLocal": null,
+    "git": {
+        "remote": "https://github.com/meeslindhout/Master-Thesis-Project---Cold-Start-Recommender-System-Session-based.git",
+        "commit": "16b17d0ec8e0874ddf0736d20db2bcfdcd8454ba"
+    },
+    "email": "meeslindhout@outlook.com",
+    "root": "C:/Users/Mees/Coding Projects/Master-Thesis-Project---Cold-Start-Recommender-System-Session-based",
+    "host": "Mees-HP-Aero",
+    "username": "Mees",
+    "executable": "c:\\Users\\Mees\\anaconda3\\envs\\master_thesis\\python.exe",
+    "cpu_count": 8,
+    "cpu_count_logical": 16,
+    "cpu_freq": {
+        "current": 1901.0,
+        "min": 0.0,
+        "max": 1901.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 1901.0,
+            "min": 0.0,
+            "max": 1901.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 475.12304306030273,
+            "used": 428.0383987426758
+        }
+    },
+    "memory": {
+        "total": 15.345203399658203
+    }
+}
