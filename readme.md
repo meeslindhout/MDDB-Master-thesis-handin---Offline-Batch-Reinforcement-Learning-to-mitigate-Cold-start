@@ -4,7 +4,7 @@ This repository contains all the code to run the experiments of the Master Thesi
 the new user problem in e-commerce Session Based Recommender Systems." by Mees Lindhout.
 
 instructions:
-- Install the requirements.txt
+- Install the requirements.txt (always create a new environment to avoid conflicts with other packages!)
 - Download pretrained agents from [here](https://icthva-my.sharepoint.com/:f:/g/personal/mees_lindhout_hva_nl/EjZqaU7dDDhNlYVhK2PJT18BKCpxamzrmgyMT9tIHuk-kQ?e=JgkLKM)
 - Run the various experiments and evaluations in the jupyter notebooks
 
